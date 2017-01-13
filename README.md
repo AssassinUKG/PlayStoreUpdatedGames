@@ -4,6 +4,8 @@ Simple ui to display the data.
 
 # Screenshot
 
+![playstoreparser](https://cloud.githubusercontent.com/assets/5285547/21936514/4eed1ab6-d9a9-11e6-8769-0ff114613217.png)
+
 
 
 # Usage 
